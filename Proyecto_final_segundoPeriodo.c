@@ -7,7 +7,7 @@
  informacion personal, administrar prestamos, procesar pagos y 
  generar un balance general de los clientes. Tambien incluye
   funciones para autenticación de usuario con clave, cambio de
-   clave y manejo de datos.                                      |
+   clave y manejo de datos.                                       |
 | ---------------------------------------------------------------*/
 
 //Bibliotecas
